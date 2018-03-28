@@ -299,4 +299,5 @@ public class RedditReader2
 		}
 	}
 	
-}# RedditReader
+}
+
